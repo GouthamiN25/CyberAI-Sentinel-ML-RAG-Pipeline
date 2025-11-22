@@ -25,3 +25,7 @@ Risk scoring
 Semantic search
 
 Generative AI–powered threat analysis
+
+## Dashboard
+
+<img width="1460" height="875" alt="cyber-RAG" src="https://github.com/user-attachments/assets/53ab2bc1-c995-4456-b99c-ce09bcb49860" />
