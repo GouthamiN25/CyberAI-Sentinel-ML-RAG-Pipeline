@@ -26,6 +26,11 @@ Semantic search
 
 Generative AI–powered threat analysis
 
+## Architecture
+<img width="1536" height="1024" alt="cyber-rag2" src="https://github.com/user-attachments/assets/9269a6bc-d680-4c4f-ae84-b66f0a7d30b0" />
+
+
+
 ## Dashboard
 
 <img width="1458" height="872" alt="cyberrag1" src="https://github.com/user-attachments/assets/d33052da-0f40-4d02-9d7e-2e219fdaaa67" />
